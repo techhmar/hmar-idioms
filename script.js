@@ -32,37 +32,16 @@ const wordData = {
     "a bul a tîrin / A tîr a bulin" : "A bul a tîr chu thuhmun a nih. Sienkhawm a ṭan tira inthawk ti hril uor na’n an hmang OR samkawp hlak.",
     "arpui mei ang" : "Thil inchen, hrietna le varna thu ah mâwl dan ah inang tlang hrilna’n an hmang hlak. Arpui mei khawm an chen ṭhum hlak hi.",
     "ai mit thlawng ang" : "Inthim êm êm, iengkhawm inhmu thei lo hrilna a nih.",
-
     "arpa chan lai" : "Hrat lem amanih chan ṭhat lem hrilna a nih.",
-
     "aihna phapui" : "A tîra inthawka rimsikpui, in dinpuitu tina a nih. A tîra inthlawppui.",
-
     "ar chil zât" : "Thil tlawm taluo hril tham lo hrilna a nih.",
-
     "a tleu zawngin" : "A nêp zawng, a dauh zawngin tina a nih.",
-
     "a ngiel ang an" : "A kip a kawiin, kimchang deu in.",
-
     "a hmei a pa" : "Nuhmei pasal ti um bik lovin tina a nih. Rêngin.",
-
     "a khir khan" : "Thil harsa, thil intak.",
-
     "a bat batin" : "A hran hranin. A hma tiemin.",
-
-    "arpui chawkchawnal hmu" : "Thil ṭha hmu a ruol chan ding dawn lova naw dang tieng in her hmangpuia ruol le mi dang hmulo OR ṭhang lova mani khata nei or fak vawng hi arpui chawkchawnal hmu ang el an ti hlak."
-
+    "arpui chawkchawnal hmu" : "Thil ṭha hmu a ruol chan ding dawn lova naw dang tieng in her hmangpuia ruol le mi dang hmulo OR ṭhang lova mani khata nei or fak vawng hi arpui chawkchawnal hmu ang el an ti hlak.",
     "arte lu kawl" : "Chân zo vawng, iengkhawm nei lo.",
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     // Add more words and meanings as needed
 };
 
