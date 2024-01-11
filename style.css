@@ -63,18 +63,6 @@ footer {
     background-color: #f0f0f0;
 }
 
-.scroll-button {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background-color: #4CAF50;
-    color: white;
-    padding: 10px;
-    cursor: pointer;
-    border: none;
-    border-radius: 5px;
-}
-
 header {
     background-color: #203786;
     padding: 1em;
